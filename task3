@@ -6,15 +6,12 @@
     <title>Document</title>
   </head>
   <body>
-    <!-- create navigation bar using hyperlink -->
     <nav>
       <a href="#">Home</a>
       <a href="#">contact us</a>
       <a href="#">About us</a>
     </nav>
-    <!-- button as link -->
     <button><a href="#">click here</a></button>
-    <!-- image as link -->
     <a href=""><img src="https://images.pexels.com/photos/1563356/pexels-photo-1563356.jpeg?cs=srgb&dl=pexels-thatguycraig000-1563356.jpg&fm=jpg" alt="images"/></a>
   </body>
 </html>
