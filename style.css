@@ -1,0 +1,14 @@
+body{
+   background-color: rgb(68, 142, 177);
+   align-content: center;
+}
+#photocard{
+    width: 500px ;
+    height: 500px;
+    background-color: aliceblue;
+    border-radius: 50px;
+    text-align: center;
+}
+h1{
+    color: blue;
+}
